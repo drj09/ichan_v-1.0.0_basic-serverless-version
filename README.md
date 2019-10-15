@@ -10,3 +10,7 @@ Framework          :       Electron Js
 Languages/Database :	   JavaScript,Electron-Db
 Libraries	   :	   JQuery ,Material Bootstrap ,Icon8 package
 
+
+
+### .exe file is included
+
