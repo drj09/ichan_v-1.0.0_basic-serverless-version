@@ -13,4 +13,5 @@ Libraries	   :	   JQuery ,Material Bootstrap ,Icon8 package
 
 
 ### .exe file is included
+just download install and start using it
 
